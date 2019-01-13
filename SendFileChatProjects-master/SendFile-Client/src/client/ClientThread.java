@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Hunk501
+ * @author Jitesh
  */
 public class ClientThread implements Runnable{
     
