@@ -20,7 +20,7 @@ import javax.swing.ProgressMonitorInputStream;
 
 /**
  *
- * @author Hunk501
+ * @author Jitesh
  */
 public class ReceivingFileThread implements Runnable {
     
