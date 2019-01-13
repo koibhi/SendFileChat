@@ -9,7 +9,7 @@ import javax.swing.text.StyleContext;
 
 /**
  *
- * @author Hunk501
+ * @author Jitesh
  */
 public class MessageStyle {
     
